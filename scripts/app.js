@@ -1,4 +1,3 @@
-console.log('Akhilesh Bikram Thapa');
 const studentName = 'Akhilesh Bikram Thapa';
 const studentNumber = '1172618';
 
